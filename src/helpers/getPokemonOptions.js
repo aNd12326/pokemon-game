@@ -16,7 +16,7 @@ const getPokemonOptions = async() => {
     
     
     const pokemons = await getPokemonNames(  mixedPokemons.splice(0,4)  )
-    console.log(pokemons);
+    return pokemons
 
 }
 
