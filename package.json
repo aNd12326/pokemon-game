@@ -1,5 +1,5 @@
 {
-  "name": "04-pokemon-game",
+  "name": "poke-game",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.21.3",
+    "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
